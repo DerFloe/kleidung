@@ -18,16 +18,16 @@ navigate into the repo
 ```sh
 $ cd /the/folder/location
 ```
-install it
-```sh
-$ flutter build
-```
 
-### Build it
+### Build it / Start it
 
 build it
 ```sh
 $ flutter build ios
+```
+start it
+```sh
+$ flutter run
 ```
 
 # Contact
